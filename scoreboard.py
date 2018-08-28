@@ -13,7 +13,6 @@ angka9 = [' --- ', '|   |', ' --- ', '    |', ' --- '];
 keluar = False;
 myList = [];
 # myList = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-# a = 1;
 
 def showMainMenu():
     print("\n1. Isi list");
